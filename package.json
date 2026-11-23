@@ -1,0 +1,1 @@
+{"name":"glyph-bench","version":"1.0.0","private":true,"scripts":{"build":"node build.cjs","start":"node serve.cjs"},"devDependencies":{"playwright":"^1.65.1"}}
